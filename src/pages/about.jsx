@@ -43,7 +43,7 @@ const About = () => {
           </div>
           <div className='flex gap-3 items-center'>
             <Link
-              href='/tushar.pdf'  // Point to the PDF file in the public folder
+              href='/'  // Point to the PDF file in the public folder
               target='_blank'
               className='px-6 py-[17px] flex border border-[#24cfa7e4] rounded-lg hover:bg-[#24cfa7e4] transition-all ease-in w-max'
             >
