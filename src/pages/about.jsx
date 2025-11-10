@@ -60,7 +60,7 @@ const About = () => {
             <hr className='opacity-30 w-[50px] hidden sm:block' />
             <ul className='gap-4 hidden sm:flex'>
               <Link
-                href={'https://www.linkedin.com/in/tushar-suryawanshi-599806299/'}
+                href={'https://www.linkedin.com/in/aniket-kapse-670130308'}
                 target='_blank'
                 className='ease-in transition-all hover:scale-110'>
                 <li className='tracking-[0.42px] text-sm'>
@@ -79,7 +79,7 @@ const About = () => {
                 </li>
               </Link>
               <Link
-                href={'https://github.com/iamtushar28'}
+                href={'https://github.com/aniketkapse'}
                 target='_blank'
                 className='ease-in transition-all hover:scale-110'>
                 <li className='tracking-[0.42px] text-sm'>

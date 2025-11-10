@@ -11,7 +11,7 @@ const Footer = () => {
         </div>
         <ul className='flex gap-4'>
           <Link
-            href={'https://www.linkedin.com/in/tushar-suryawanshi-599806299/'}
+            href={'https://www.linkedin.com/in/aniket-kapse-670130308'}
             target='_blank'
             className='ease-in transition-all hover:scale-110'>
             <li className='tracking-[0.42px] text-sm'>
