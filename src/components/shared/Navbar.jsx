@@ -33,7 +33,7 @@ const Navbar = () => {
           <Link href={'/'} className={`px-5 py-[9px] rounded-[100px] border border-white border-opacity-30 tracking-[0.42px] text-sm hover:bg-opacity-80 ${nav === '/' && 'bg-white text-black'} ease-in transition-all `} >Home</Link>
 
           {/* projects */}
-          <Link href={'/projects'} className={`px-5 py-[9px] rounded-[100px] border border-white border-opacity-30 tracking-[0.42px] text-sm hover:bg-opacity-80 ${nav === '/projects' && 'bg-white text-black'} ease-in transition-all `}>Projects</Link>
+          {/* <Link href={'/projects'} className={`px-5 py-[9px] rounded-[100px] border border-white border-opacity-30 tracking-[0.42px] text-sm hover:bg-opacity-80 ${nav === '/projects' && 'bg-white text-black'} ease-in transition-all `}>Projects</Link> */}
 
           {/* about */}
           <Link href='/about' className={`px-5 py-[9px] rounded-[100px] border border-white border-opacity-30 tracking-[0.42px] text-sm hover:bg-opacity-80 ${nav === '/about' && 'bg-white text-black'} ease-in transition-all `}>About</Link>

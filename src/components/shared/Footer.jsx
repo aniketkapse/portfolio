@@ -7,7 +7,7 @@ const Footer = () => {
       <hr className='max-w-7xl mx-auto opacity-20 ' />
       <nav className='flex justify-between items-center max-w-7xl mx-auto h-[92px]'>
         <div className='text-xs sm:text-sm flex items-center tracking-[0.42px]'>
-          <span className='mr-[6px] mt-2 text-2xl'>&copy;</span>2024 Tushar Suryawanshi
+          <span className='mr-[6px] mt-2 text-2xl'>&copy;</span>2024 Aniket Kapse
         </div>
         <ul className='flex gap-4'>
           <Link
@@ -30,7 +30,7 @@ const Footer = () => {
             </li>
           </Link>
           <Link
-            href={'https://github.com/iamtushar28'}
+            href={'https://github.com/aniketkapse'}
             target='_blank'
             className='ease-in transition-all hover:scale-110'>
             <li className='tracking-[0.42px] text-sm'>

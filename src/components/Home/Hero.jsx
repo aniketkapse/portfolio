@@ -45,14 +45,14 @@ const Hero = () => {
             />
           </div>
         </div>
-        <h1 className='mb-[7px] animate-fade-up animate-duration-[1500ms] animate-ease-out text-base'>Hi, my name is Tushar Suryawanshi</h1>
+        <h1 className='mb-[7px] animate-fade-up animate-duration-[1500ms] animate-ease-out text-base'>Hi, my name is Aniket Kapse</h1>
         <h2 className='text-2xl md:text-3xl xl:text-5xl font-bold tracking-[1.44px] text-center xl:leading-snug mb-[25px] md:mb-[53px] animate-fade-up animate-duration-[1500ms] animate-delay-[400ms] animate-ease-out'>
           I craft <span className='text-[#ff2c2c]'>exceptional</span> web experiences through
           modern frontend <span className='text-[#ff2c2c]'>development</span>.
         </h2>
         <div className='px-4 md:px-5 py-[10px] md:py-3 bg-accent bg-opacity-20 flex gap-6 items-center rounded-lg animate-fade-up animate-duration-[1500ms] animate-delay-[800ms] animate-ease-out'>
-          <p>Check out my projects</p>
-          <Link href={'/projects'}>
+          <p>Check out my profile</p>
+          <Link href={'/about'}>
           <CustomImage src={`/arrow.svg`} width={40} height={40} alt='arrow right' className='hover:scale-105 ease-in transition-all animate-pulse' />
           </Link>
         </div>

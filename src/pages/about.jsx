@@ -1,7 +1,7 @@
 import CustomImage from '@/components/shared/CustomImage';
 import Link from 'next/link';
 import Image from 'next/image';
-import Tushar from '@/styles/tushar28.jpg'
+import Tushar from '@/styles/aniket.jpg'
 
 const About = () => {
   return (
@@ -14,7 +14,7 @@ const About = () => {
         <div className='animate-fade animate-duration-[2000ms] animate-ease-in'>
           <h3 className='text-[#24cfa7e4] mb-[14px] font-semibold'>Who am I?</h3>
           <h3 className='mb-2 text-[28px] font-bold tracking-[0.84px]'>
-            I’m Aniket Kapse, a Data Engineer
+            I’m Aniket Kapse, a Frontend Developer
           </h3>
           <p className='leading-[150%] tracking-[0.48px] lg:w-[90%] mb-5'>
             As a passionate frontend developer, I specialize in creating exceptional web experiences that combine clean code with beautiful user interfaces. With expertise in React.js, Next.js, and modern frontend technologies, I transform design concepts into responsive, performant, and user-friendly applications.
@@ -35,9 +35,9 @@ const About = () => {
                 alt='mail icon'
               />
               <a
-                href='mailto:iamtushar2830@gmail.com'
+                href='mailto:aniketkapse1810@gmail.com'
                 className='underline text-sm ml-[6px] text-zinc-400 hover:text-white transition-all duration-300'>
-                iamtushar2830@gmail.com
+                aniketkapse1810@gmail.com
               </a>
             </div>
           </div>
