@@ -1,0 +1,10 @@
+const Contact = () => {
+  return ( 
+    <section className="py-[50px] flex flex-col items-center bg-hero text-center">
+      <h2 className="mb-3 text-xl lg:text-[32px] font-bold tracking-[0.96px]">For more <span className="text-[#24cfa7e4]">Inquiries</span></h2>
+      <p className="text-base lg:text-xl tracking-[0.6px]"><span className="font-bold">Contact me : </span><a href="mailto:aniketkapse1810@gmail.com">aniketkapse1810@gmail.com</a></p>
+    </section>
+   );
+}
+ 
+export default Contact;
